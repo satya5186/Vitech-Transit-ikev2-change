@@ -14,7 +14,7 @@ terraform {
 # username - login user name, default is admin
 # password - password
 provider "aviatrix" {
-    controller_ip = "3.140.143.165"
+    controller_ip = ""
     username = "admin"
-    password = "Prasad@51"
+    password = ""
 }
